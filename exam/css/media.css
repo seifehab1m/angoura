@@ -1,0 +1,35 @@
+@media all and (max-width:499px) {
+    
+    .setting-icon
+    {
+       
+      display: none;
+       
+    }
+    .title-slider h1
+{
+    
+    font-size: 50px;
+    color: white;
+    
+}
+    
+}
+
+@media all and (max-width:767px) and (min-width: 500px) {
+    .title-slider h1
+    {
+        
+        font-size: 60px;
+        color: white;
+        
+    }
+  
+}
+
+@media all and (max-width:979px) and (min-width:768px) {
+   
+   
+   
+
+}
